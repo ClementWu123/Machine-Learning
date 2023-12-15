@@ -1,8 +1,6 @@
 HW Assignments for Penn CIS 520: Machine Learning:
-- HW1: Decision Trees and K-NN
-- HW2: Linear Regression and Regularization
-- HW3: Feature Selection, Kernel Regression, and Logistic Regression
-- HW4: Neural Networks, CNNs, Adaboost, and SVMs
-- HW5: SVD and PCA
-- HW6: EM, K-Means, Imputation, and Confusion Matrices
-- HW7: HMM, RNNs, and Bayesian Networks
+- HW0: PyTorch Tutorial
+- HW1: Perception and K-Nearest Neibhours
+- HW2: Logistic Regression, Linear Regression with Ridge Regression, SVM and Gradient Descent
+- HW3: Decision Trees and Bagging, Bagging Decision Trees for Random forests, Boosting
+- HW4: Fully Connected Neural Network, Autoencoders, Neural Network Backpropagation
